@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="1"
+           tests="1"
+           time="3.510121">
+   <testcase classname="SoapUI2Jira_TM4J_1" name="SoapUI2Jira_TM4J_1" time="3.510121">
+      <skipped>Given Integrating Soapui with Test Management for Jira version..............pending
+</skipped>
+   </testcase>
+</testsuite>
