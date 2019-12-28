@@ -1,0 +1,11 @@
+2019-12-27 10:34:12,606 WARN  [SoapUI] Missing folder [C:\Users\suree\eclipse-workspace\SoapUI2Jira_TM4J\src\com\tm4j\.\ext] for external libraries
+2019-12-27 10:34:12,830 INFO  [DefaultSoapUICore] initialized soapui-settings from [C:\Users\suree\soapui-settings.xml]
+2019-12-27 10:34:14,009 INFO  [WsdlProject] Loaded project from [file:/C:/Users/suree/eclipse-workspace/SoapUI2Jira_TM4J/SoapUI_File/CountryInfo-soapui-project.xml]
+2019-12-27 10:34:14,028 WARN  [WsdlProject] Project 'CountryInfo' is from a newer version (5.5.0) of soapUI than this (4.0.1) and parts of it may be incompatible or incorrect. Saving this project with this version of soapUI may cause it to function differently.
+2019-12-27 10:34:14,410 INFO  [SoapUITestCaseRunner] Running soapUI tests in project [CountryInfo]
+2019-12-27 10:34:14,414 INFO  [SoapUITestCaseRunner] Running Project [CountryInfo], runType = SEQUENTIAL
+2019-12-27 10:34:14,428 INFO  [SoapUITestCaseRunner] Running soapUI testcase [TestCase 1]
+2019-12-27 10:34:14,428 INFO  [SoapUITestCaseRunner] running step [Groovy Script]
+2019-12-27 10:34:14,753 INFO  [log] Hello Word
+2019-12-27 10:34:14,758 INFO  [SoapUITestCaseRunner] Finished running soapUI testcase [TestCase 1], time taken: 319ms, status: FINISHED
+2019-12-27 10:34:14,759 INFO  [SoapUITestCaseRunner] Project [CountryInfo] finished with status [FINISHED] in 339ms

@@ -12,14 +12,13 @@
         "steps": [
           {
             "result": {
-              "duration": 3510120500,
-              "error_message": "cucumber.api.PendingException: TODO: implement me\r\n\tat com.tm4j.myFirstSoapUITest.integrating_Soapui_with_Test_Management_for_Jira_version(myFirstSoapUITest.java:15)\r\n\tat ✽.Given Integrating Soapui with Test Management for Jira version(TM-T2.feature:5)\r\n",
-              "status": "pending"
+              "duration": 3472560800,
+              "status": "passed"
             },
             "line": 5,
             "name": "Integrating Soapui with Test Management for Jira version",
             "match": {
-              "location": "myFirstSoapUITest.integrating_Soapui_with_Test_Management_for_Jira_version()"
+              "location": "mySecondSoapUITest.integrating_Soapui_with_Test_Management_for_Jira_version()"
             },
             "keyword": "Given "
           }
