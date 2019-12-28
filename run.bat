@@ -1,2 +1,2 @@
-javac -cp ./src/testCode/;./lib/* mySecondSoapUITest.java TestRunner.java
-java -cp ./src/testCode/;./lib/* org.junit.runner.JUnitCore TestRunner
+javac -cp ./src;./lib/* testCode.mySecondSoapUITest.java testCode.TestRunner.java
+java -cp ./src;./lib/* org.junit.runner.JUnitCore testCode.TestRunner
