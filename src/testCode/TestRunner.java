@@ -13,3 +13,4 @@ format= {"junit:target/tm4j/Test-soaui_report.xml","json:target/tm4j/Test-soaui_
 public class TestRunner {
 
 }
+ 
